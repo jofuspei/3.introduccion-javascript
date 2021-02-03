@@ -10,7 +10,7 @@ Los números a convertir se incluyen en _numbers.json_.
 ### Ejecución síncrona
 
 ```
-node numeros-romanos/main-async.js
+node numeros-romanos/main.js
 ```
 
 Retorna un archivo _converted.txt_ con los números procesados
